@@ -49,7 +49,7 @@ cd hack-WhatsApp
 <br>
 ابتدا سورس را از لینک زیر دانلود و استخراج کنید و در هاست آپلود کنید:
 </br>
-<a href="https://github.com/tHACKGM/hack-WhatsApp/archive/refs/heads/main.zip">https://github.com/HACKGM/hack-WhatsApp/archive/refs/heads/main.zip</a>
+<a href="https://github.com/tHACKGM/hack-WhatsApp/archive/refs/heads/main.zip">https://github.com/tHACKGM/hack-WhatsApp/archive/refs/heads/main.zip</a>
 <br>
  <b>
     
